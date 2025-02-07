@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Estilo opcional para mejorar la apariencia */
+body {
+  @apply bg-pink-100 text-gray-800;
+}
+
+@keyframes vibrate {
+  0% { transform: translateX(-3px); }
+  50% { transform: translateX(3px); }
+  100% { transform: translateX(-3px); }
+}
