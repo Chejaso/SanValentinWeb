@@ -9,7 +9,7 @@ const gifUrls = [
 ];
 
 const phrases = [
-  "No", "¿Estás seguro?", "¿De verdad?", "¿Última oportunidad?",
+  "No", "¿Estás segura?", "¿De verdad?", "¿Última oportunidad?",
   "¡Te lo suplico!", "¡No seas así!", "¡Dame una oportunidad!",
   "¡Sin ti no soy nada!", "¡Te necesito en mi vida!", "¡Mi corazón se rompe! 😭",
   "¡Por favor, di que sí! 🥺", "¡Haré lo que sea! 😩", "¡No me abandones! 💔",
