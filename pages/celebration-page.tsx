@@ -70,7 +70,7 @@ const CelebrationPage = () => {
 
       {/* 🎶 Música oculta pero sonando desde el minuto correcto */}
       <audio autoPlay loop style={{ display: "none" }}>
-        <source src="/Musica.mp3#t=153" type="audio/mpeg" />
+        <source src="/Musica.mp3" type="audio/mpeg" />
       </audio>
     </div>
   );
